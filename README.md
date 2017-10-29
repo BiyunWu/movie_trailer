@@ -17,4 +17,4 @@ The project is to show some movies' information including their trailers in the 
 2. Select **Run** in the menu, then click **Run Module**
 
 ## License
-The MIT license
+The **MIT** license
